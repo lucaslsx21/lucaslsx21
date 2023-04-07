@@ -4,6 +4,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslls.1989/)
 
 ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslsx21&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslsx21)](https://github.com/lucaslsx21/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
