@@ -22,3 +22,5 @@
 ## E-mails:
 - [Hotmail](lucaslsilva@live.com)<br/>
 - [Gmail](lucaslls.1989@gmail.com)
+
+![Snake animation](https://github.com/lucaslsx21/lucaslsx21/blob/output/github-contribution-grid-snake.svg)
